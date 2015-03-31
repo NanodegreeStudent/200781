@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_class_detail">Class details</string>
+
+    <string name="list_item_subject_label">Current class</string>
+    <string name="list_item_duration_label">Duration</string>
+    <string name="list_item_room_label">Room</string>
+    <string name="teacher_label">Teacher</string>
+
+    <string name="invalid_group_name">Invalid group name! Can\'t refresh!</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_group_key">Group</string>
+    <string name="pref_group_default">isb-1-14</string>
+    <string name="pref_title_display_name">Group</string>
+    <string name="pref_default_display_name">isb-1-14</string>
+    
+</resources>
